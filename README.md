@@ -1,7 +1,6 @@
 # GtinValidation
 
 [![Build Status](https://travis-ci.org/ryanblak/GtinValidation.svg)](https://travis-ci.org/ryanblak/GtinValidation)
-[![Codacy Badge](https://www.codacy.com/project/badge/91e4b804e6594872bfc84922cbe68a89)](https://www.codacy.com/app/rbtnet/GtinValidation)
 [![License](https://poser.pugx.org/ryanblak/gtinvalidation/license)](https://packagist.org/packages/ryanblak/gtinvalidation)
 
 GtinValidation is a library for validating the format and check digit of a GTIN.
